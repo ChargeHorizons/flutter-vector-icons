@@ -12,36 +12,8 @@ dev_dependencies:
     sdk: flutter
 flutter:
   fonts:
-    - family: AntDesign
-      fonts:
-        - asset: fonts/AntDesign.ttf
-    - family: Entypo
-      fonts:
-        - asset: fonts/Entypo.ttf
-    - family: EvilIcons
-      fonts:
-        - asset: fonts/EvilIcons.ttf
-    - family: Feather
-      fonts:
-        - asset: fonts/Feather.ttf
-    - family: Fontisto
-      fonts:
-        - asset: fonts/Fontisto.ttf
-    - family: Foundation
-      fonts:
-        - asset: fonts/Foundation.ttf
-    - family: Ionicons
-      fonts:
-        - asset: fonts/Ionicons.ttf
+   
     - family: MaterialCommunityIcons
       fonts:
         - asset: fonts/MaterialCommunityIcons.ttf
-    - family: Octicons
-      fonts:
-        - asset: fonts/Octicons.ttf
-    - family: SimpleLineIcons
-      fonts:
-        - asset: fonts/SimpleLineIcons.ttf
-    - family: Zocial
-      fonts:
-        - asset: fonts/Zocial.ttf
+   
