@@ -36,9 +36,6 @@ flutter:
     - family: MaterialCommunityIcons
       fonts:
         - asset: fonts/MaterialCommunityIcons.ttf
-    - family: MaterialIcons
-      fonts:
-        - asset: fonts/MaterialIcons.ttf
     - family: Octicons
       fonts:
         - asset: fonts/Octicons.ttf
