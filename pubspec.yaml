@@ -24,18 +24,6 @@ flutter:
     - family: Feather
       fonts:
         - asset: fonts/Feather.ttf
-    - family: FontAwesome
-      fonts:
-        - asset: fonts/FontAwesome.ttf
-    - family: FontAwesome5_Brands
-      fonts:
-        - asset: fonts/FontAwesome5_Brands.ttf
-    - family: FontAwesome5_Regular
-      fonts:
-        - asset: fonts/FontAwesome5_Regular.ttf
-    - family: FontAwesome5_Solid
-      fonts:
-        - asset: fonts/FontAwesome5_Solid.ttf
     - family: Fontisto
       fonts:
         - asset: fonts/Fontisto.ttf
