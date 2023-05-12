@@ -8,7 +8,6 @@ export 'src/fontisto.dart';
 export 'src/foundation.dart';
 export 'src/ionicons.dart';
 export 'src/material_community_icons.dart';
-export 'src/material_icons.dart';
 export 'src/octicons.dart';
 export 'src/simple_line_icons.dart';
 export 'src/zocial.dart';
